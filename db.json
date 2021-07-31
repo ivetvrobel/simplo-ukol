@@ -2,7 +2,14 @@
     "customers": [
         {
             "id": 1,
-            "name": "John Doe",
+            "name": "John",
+            "gender": "male",
+            "email": "johndoe@gmail.com",
+            "phone": "777789034"
+        },
+        {
+            "id": 2,
+            "name": "John",
             "gender": "male",
             "email": "johndoe@gmail.com",
             "phone": "777789034"
