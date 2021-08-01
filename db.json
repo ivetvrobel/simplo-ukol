@@ -1,22 +1,28 @@
 {
-  "customers": [
-    {
-      "id": 3,
-      "name": "John",
-      "email": "johndoe@gmail.com",
-      "phone": "777789034"
-    },
-    {
-      "name": "Anna May",
-      "email": "anna@gmail.com",
-      "phone": "777888999",
-      "id": 4
-    },
-    {
-      "name": "Jane Doe",
-      "email": "janedoe@gmail.com",
-      "phone": "777887987",
-      "id": 5
-    }
-  ]
+    "customers": [
+        {
+            "id": 1,
+            "name": "John",
+            "email": "johndoe@gmail.com",
+            "phone": "777789034"
+        },
+        {
+            "id": 2,
+            "name": "John",
+            "email": "johndoe@gmail.com",
+            "phone": "777789034"
+        },
+        {
+            "id": 3,
+            "name": "John",
+            "email": "johndoe@gmail.com",
+            "phone": "777789034"
+        },
+        {
+            "id": 4,
+            "name": "John",
+            "email": "johndoe@gmail.com",
+            "phone": "777789034"
+        }
+    ]
 }
